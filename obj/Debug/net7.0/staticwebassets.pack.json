@@ -29,6 +29,22 @@
       "PackagePath": "staticwebassets\\Img\\drinks\\sprite.png"
     },
     {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\hot\\Beef udon noodles.png",
+      "PackagePath": "staticwebassets\\Img\\hot\\Beef udon noodles.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\hot\\Funchoza with seafood.png",
+      "PackagePath": "staticwebassets\\Img\\hot\\Funchoza with seafood.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\hot\\Udon noodles with prawns.png",
+      "PackagePath": "staticwebassets\\Img\\hot\\Udon noodles with prawns.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\hot\\Unagi chicken with rice.png",
+      "PackagePath": "staticwebassets\\Img\\hot\\Unagi chicken with rice.png"
+    },
+    {
       "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set1.png",
       "PackagePath": "staticwebassets\\Img\\sets\\set1.png"
     },

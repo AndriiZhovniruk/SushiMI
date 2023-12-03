@@ -12,8 +12,8 @@ using Sushimi.Data;
 namespace Sushimi.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20231203152151_AddDish")]
-    partial class AddDish
+    [Migration("20231203164438_SeedToTable")]
+    partial class SeedToTable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -235,6 +235,10 @@ namespace Sushimi.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("Category")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -242,13 +246,230 @@ namespace Sushimi.Data.Migrations
                     b.Property<int>("Price")
                         .HasColumnType("int");
 
-                    b.Property<string>("Weight")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("Weight")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Dish");
+                    b.ToTable("Dishes");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Category = "Sushi",
+                            Name = "California",
+                            Price = 410,
+                            Weight = 300
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Category = "Sushi",
+                            Name = "California with Tuna",
+                            Price = 520,
+                            Weight = 290
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Category = "Sushi",
+                            Name = "Enigma",
+                            Price = 350,
+                            Weight = 300
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Category = "Sushi",
+                            Name = "Sakura",
+                            Price = 480,
+                            Weight = 290
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Category = "Sushi",
+                            Name = "Felix with Crab",
+                            Price = 380,
+                            Weight = 305
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Category = "Sushi",
+                            Name = "Itachi",
+                            Price = 390,
+                            Weight = 320
+                        },
+                        new
+                        {
+                            Id = 7,
+                            Category = "Sushi",
+                            Name = "Red Dragon",
+                            Price = 530,
+                            Weight = 325
+                        },
+                        new
+                        {
+                            Id = 8,
+                            Category = "Sushi",
+                            Name = "Fiadelfia",
+                            Price = 400,
+                            Weight = 320
+                        },
+                        new
+                        {
+                            Id = 9,
+                            Category = "Sets",
+                            Name = "set 1",
+                            Price = 1035,
+                            Weight = 600
+                        },
+                        new
+                        {
+                            Id = 10,
+                            Category = "Sets",
+                            Name = "set 2",
+                            Price = 1540,
+                            Weight = 895
+                        },
+                        new
+                        {
+                            Id = 11,
+                            Category = "Sets",
+                            Name = "set 3",
+                            Price = 1265,
+                            Weight = 950
+                        },
+                        new
+                        {
+                            Id = 12,
+                            Category = "Sets",
+                            Name = "set 4",
+                            Price = 3300,
+                            Weight = 2100
+                        },
+                        new
+                        {
+                            Id = 13,
+                            Category = "Sets",
+                            Name = "set 5",
+                            Price = 2280,
+                            Weight = 1600
+                        },
+                        new
+                        {
+                            Id = 14,
+                            Category = "Sets",
+                            Name = "set 6",
+                            Price = 1320,
+                            Weight = 650
+                        },
+                        new
+                        {
+                            Id = 15,
+                            Category = "Hot",
+                            Name = "Beef udon noodles",
+                            Price = 169,
+                            Weight = 260
+                        },
+                        new
+                        {
+                            Id = 16,
+                            Category = "Hot",
+                            Name = "Funchoza with seafood",
+                            Price = 245,
+                            Weight = 250
+                        },
+                        new
+                        {
+                            Id = 17,
+                            Category = "Hot",
+                            Name = "Unagi chicken with rice",
+                            Price = 155,
+                            Weight = 280
+                        },
+                        new
+                        {
+                            Id = 18,
+                            Category = "Hot",
+                            Name = "Udon noodles with prawns",
+                            Price = 245,
+                            Weight = 370
+                        },
+                        new
+                        {
+                            Id = 19,
+                            Category = "Snaks",
+                            Name = "Inari",
+                            Price = 140,
+                            Weight = 65
+                        },
+                        new
+                        {
+                            Id = 20,
+                            Category = "Snaks",
+                            Name = "Sashimi",
+                            Price = 480,
+                            Weight = 155
+                        },
+                        new
+                        {
+                            Id = 21,
+                            Category = "Snaks",
+                            Name = "Tatar",
+                            Price = 360,
+                            Weight = 150
+                        },
+                        new
+                        {
+                            Id = 22,
+                            Category = "Snaks",
+                            Name = "Chuka",
+                            Price = 230,
+                            Weight = 185
+                        },
+                        new
+                        {
+                            Id = 23,
+                            Category = "Drinks",
+                            Name = "Coca-Cola",
+                            Price = 35,
+                            Weight = 5
+                        },
+                        new
+                        {
+                            Id = 24,
+                            Category = "Drinks",
+                            Name = "Fanta",
+                            Price = 35,
+                            Weight = 5
+                        },
+                        new
+                        {
+                            Id = 25,
+                            Category = "Drinks",
+                            Name = "Sprite",
+                            Price = 35,
+                            Weight = 5
+                        },
+                        new
+                        {
+                            Id = 26,
+                            Category = "Drinks",
+                            Name = "Dr-Pepper",
+                            Price = 40,
+                            Weight = 5
+                        },
+                        new
+                        {
+                            Id = 27,
+                            Category = "Drinks",
+                            Name = "Morshinkska",
+                            Price = 35,
+                            Weight = 5
+                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
