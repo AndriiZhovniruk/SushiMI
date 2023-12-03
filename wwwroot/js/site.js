@@ -1,4 +1,14 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿
+var toggleBtn = document.querySelector(".toggle_btn")
+var toggleBtnIcon = document.querySelector(".toggle_btn i")
+var dropDownMenu = document.querySelector(".dropdown_menu")
 
-// Write your JavaScript code.
+
+toggleBtn.onclick = function () {
+    dropDownMenu.classList.toggle("open")
+    var isOpen = dropDownMenu.classList.contains("open")
+
+    toggleBtnIcon.classList = isOpen
+        ? 'fa-solid fa-xmark'
+        : 'fa-solid fa-bars'
+}
