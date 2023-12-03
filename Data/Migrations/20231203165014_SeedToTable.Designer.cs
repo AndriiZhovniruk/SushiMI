@@ -12,7 +12,7 @@ using Sushimi.Data;
 namespace Sushimi.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20231203164438_SeedToTable")]
+    [Migration("20231203165014_SeedToTable")]
     partial class SeedToTable
     {
         /// <inheritdoc />
@@ -251,7 +251,7 @@ namespace Sushimi.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Dishes");
+                    b.ToTable("Dish");
 
                     b.HasData(
                         new

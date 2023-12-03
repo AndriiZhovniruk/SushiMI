@@ -248,7 +248,7 @@ namespace Sushimi.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Dishes");
+                    b.ToTable("Dish");
 
                     b.HasData(
                         new

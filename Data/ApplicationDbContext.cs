@@ -5,7 +5,7 @@ namespace Sushimi.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
-        public DbSet<Dish> Dishes { get; set; }
+        public DbSet<Dish> Dish { get; set; }
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
