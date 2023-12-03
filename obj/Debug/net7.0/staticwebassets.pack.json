@@ -5,6 +5,126 @@
       "PackagePath": "staticwebassets\\Sushimi.bundle.scp.css"
     },
     {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\Logo.png",
+      "PackagePath": "staticwebassets\\Img\\Logo.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\Coca_Cola.png",
+      "PackagePath": "staticwebassets\\Img\\drinks\\Coca_Cola.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\Dr_Pepper.png",
+      "PackagePath": "staticwebassets\\Img\\drinks\\Dr_Pepper.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\fanta.png",
+      "PackagePath": "staticwebassets\\Img\\drinks\\fanta.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\morshinska.png",
+      "PackagePath": "staticwebassets\\Img\\drinks\\morshinska.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\sprite.png",
+      "PackagePath": "staticwebassets\\Img\\drinks\\sprite.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set1.png",
+      "PackagePath": "staticwebassets\\Img\\sets\\set1.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set2.png",
+      "PackagePath": "staticwebassets\\Img\\sets\\set2.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set3.png",
+      "PackagePath": "staticwebassets\\Img\\sets\\set3.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set4.png",
+      "PackagePath": "staticwebassets\\Img\\sets\\set4.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set5.png",
+      "PackagePath": "staticwebassets\\Img\\sets\\set5.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set6.png",
+      "PackagePath": "staticwebassets\\Img\\sets\\set6.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\snaks\\Inari.png",
+      "PackagePath": "staticwebassets\\Img\\snaks\\Inari.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\snaks\\chuka.png",
+      "PackagePath": "staticwebassets\\Img\\snaks\\chuka.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\snaks\\sashimi.png",
+      "PackagePath": "staticwebassets\\Img\\snaks\\sashimi.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\snaks\\tartar.png",
+      "PackagePath": "staticwebassets\\Img\\snaks\\tartar.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\california.png",
+      "PackagePath": "staticwebassets\\Img\\sushi\\california.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\california_tun.png",
+      "PackagePath": "staticwebassets\\Img\\sushi\\california_tun.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\enigma.png",
+      "PackagePath": "staticwebassets\\Img\\sushi\\enigma.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\felix_crab.png",
+      "PackagePath": "staticwebassets\\Img\\sushi\\felix_crab.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\fidelfia.png",
+      "PackagePath": "staticwebassets\\Img\\sushi\\fidelfia.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\itachi.png",
+      "PackagePath": "staticwebassets\\Img\\sushi\\itachi.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\red_drag.png",
+      "PackagePath": "staticwebassets\\Img\\sushi\\red_drag.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\sakura.png",
+      "PackagePath": "staticwebassets\\Img\\sushi\\sakura.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\tabs\\drink.png",
+      "PackagePath": "staticwebassets\\Img\\tabs\\drink.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\tabs\\hot.png",
+      "PackagePath": "staticwebassets\\Img\\tabs\\hot.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\tabs\\sets.png",
+      "PackagePath": "staticwebassets\\Img\\tabs\\sets.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\tabs\\snacks.png",
+      "PackagePath": "staticwebassets\\Img\\tabs\\snacks.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\tabs\\sushi.png",
+      "PackagePath": "staticwebassets\\Img\\tabs\\sushi.png"
+    },
+    {
+      "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\Різне\\Попередні коміти.jpg",
+      "PackagePath": "staticwebassets\\Img\\Різне\\Попередні коміти.jpg"
+    },
+    {
       "Id": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

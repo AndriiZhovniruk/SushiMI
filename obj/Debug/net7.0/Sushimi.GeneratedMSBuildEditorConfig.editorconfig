@@ -20,12 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Univer/dotNET/Sushimi/Sushimi/Views/Drinks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpbmtzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Univer/dotNET/Sushimi/Sushimi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Univer/dotNET/Sushimi/Sushimi/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/Univer/dotNET/Sushimi/Sushimi/Views/Hot/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univer/dotNET/Sushimi/Sushimi/Views/Sets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Univer/dotNET/Sushimi/Sushimi/Views/Shared/Error.cshtml]
@@ -38,6 +46,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Univer/dotNET/Sushimi/Sushimi/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univer/dotNET/Sushimi/Sushimi/Views/Snaks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU25ha3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Univer/dotNET/Sushimi/Sushimi/Views/Sushi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VzaGlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Univer/dotNET/Sushimi/Sushimi/Views/_ViewImports.cshtml]
