@@ -196,9 +196,7 @@ footer-cells {
 }
 
 .catalog-img {
-    width: 40vh;
-    transition-duration: 0.5s;
-    transition-timing-function: linear;
+    width: 350px;
 }
 
 .description {
