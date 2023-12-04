@@ -1,16 +1,18 @@
 ﻿@{
-    ViewData["Title"] = "Hot";
+	ViewData["Title"] = "Snaks";
 }
+@model List<Dish>
+
 <div class="catalog">
 	@if (Model != null)
 	{
 		@foreach (var dish in Model)
-			@if (dish.Category == "Hot")
+			@if (dish.Category == "Snaks")
 			{
 				{
 					<div class="block">
 						<div class="section1">
-							<img class="catalog-img" src="../img/hot/@(dish.Id).png" alt="">
+							<img class="catalog-img" src="../img/snaks/@(dish.Id).png" alt="">
 							<h1 class="description">
 								@dish.Name <br> @dish.Weight г <br> @dish.Price грн
 							</h1>

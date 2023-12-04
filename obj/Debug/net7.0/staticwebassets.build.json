@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KoQFxBcv4W8WmU3KIynn0zMxnZJ61EddoWYRgnfwM/I=",
+  "Hash": "k7ETNBWjWlO5YpTlOneBS4g7q1ehVOeVoyjlnUIP/hY=",
   "Source": "Sushimi",
   "BasePath": "_content/Sushimi",
   "Mode": "Default",
@@ -1105,12 +1105,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\Coca_Cola.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\23.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/drinks/Coca_Cola.png",
+      "RelativePath": "Img/drinks/23.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1119,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\drinks\\Coca_Cola.png"
+      "OriginalItemSpec": "wwwroot\\Img\\drinks\\23.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\Dr_Pepper.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\24.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/drinks/Dr_Pepper.png",
+      "RelativePath": "Img/drinks/24.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\drinks\\Dr_Pepper.png"
+      "OriginalItemSpec": "wwwroot\\Img\\drinks\\24.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\fanta.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\25.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/drinks/fanta.png",
+      "RelativePath": "Img/drinks/25.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\drinks\\fanta.png"
+      "OriginalItemSpec": "wwwroot\\Img\\drinks\\25.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\morshinska.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\26.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/drinks/morshinska.png",
+      "RelativePath": "Img/drinks/26.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,15 +1170,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\drinks\\morshinska.png"
+      "OriginalItemSpec": "wwwroot\\Img\\drinks\\26.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\sprite.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\drinks\\27.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/drinks/sprite.png",
+      "RelativePath": "Img/drinks/27.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,15 +1187,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\drinks\\sprite.png"
+      "OriginalItemSpec": "wwwroot\\Img\\drinks\\27.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\hot\\Beef udon noodles.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\hot\\15.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/hot/Beef udon noodles.png",
+      "RelativePath": "Img/hot/15.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,15 +1204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\hot\\Beef udon noodles.png"
+      "OriginalItemSpec": "wwwroot\\Img\\hot\\15.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\hot\\Funchoza with seafood.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\hot\\16.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/hot/Funchoza with seafood.png",
+      "RelativePath": "Img/hot/16.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1221,15 +1221,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\hot\\Funchoza with seafood.png"
+      "OriginalItemSpec": "wwwroot\\Img\\hot\\16.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\hot\\Udon noodles with prawns.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\hot\\17.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/hot/Udon noodles with prawns.png",
+      "RelativePath": "Img/hot/17.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1238,15 +1238,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\hot\\Udon noodles with prawns.png"
+      "OriginalItemSpec": "wwwroot\\Img\\hot\\17.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\hot\\Unagi chicken with rice.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\hot\\18.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/hot/Unagi chicken with rice.png",
+      "RelativePath": "Img/hot/18.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1255,7 +1255,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\hot\\Unagi chicken with rice.png"
+      "OriginalItemSpec": "wwwroot\\Img\\hot\\18.png"
     },
     {
       "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\Logo.png",
@@ -1275,12 +1275,12 @@
       "OriginalItemSpec": "wwwroot\\Img\\Logo.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set1.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\10.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sets/set1.png",
+      "RelativePath": "Img/sets/10.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1289,15 +1289,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sets\\set1.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sets\\10.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set2.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\11.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sets/set2.png",
+      "RelativePath": "Img/sets/11.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sets\\set2.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sets\\11.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set3.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\12.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sets/set3.png",
+      "RelativePath": "Img/sets/12.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1323,15 +1323,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sets\\set3.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sets\\12.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set4.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\13.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sets/set4.png",
+      "RelativePath": "Img/sets/13.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1340,15 +1340,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sets\\set4.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sets\\13.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set5.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\14.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sets/set5.png",
+      "RelativePath": "Img/sets/14.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1357,15 +1357,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sets\\set5.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sets\\14.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\set6.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sets\\9.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sets/set6.png",
+      "RelativePath": "Img/sets/9.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1374,15 +1374,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sets\\set6.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sets\\9.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\snaks\\chuka.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\snaks\\19.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/snaks/chuka.png",
+      "RelativePath": "Img/snaks/19.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1391,15 +1391,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\snaks\\chuka.png"
+      "OriginalItemSpec": "wwwroot\\Img\\snaks\\19.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\snaks\\Inari.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\snaks\\20.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/snaks/Inari.png",
+      "RelativePath": "Img/snaks/20.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1408,15 +1408,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\snaks\\Inari.png"
+      "OriginalItemSpec": "wwwroot\\Img\\snaks\\20.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\snaks\\sashimi.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\snaks\\21.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/snaks/sashimi.png",
+      "RelativePath": "Img/snaks/21.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1425,15 +1425,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\snaks\\sashimi.png"
+      "OriginalItemSpec": "wwwroot\\Img\\snaks\\21.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\snaks\\tartar.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\snaks\\22.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/snaks/tartar.png",
+      "RelativePath": "Img/snaks/22.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1442,7 +1442,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\snaks\\tartar.png"
+      "OriginalItemSpec": "wwwroot\\Img\\snaks\\22.png"
     },
     {
       "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\1.png",

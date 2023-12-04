@@ -3,12 +3,12 @@ using Sushimi.Data;
 
 namespace Sushimi.Controllers
 {
-	public class SetsController : Controller
+	public class SnacksController : Controller
 	{
-		private readonly ILogger<SetsController> _logger;
+		private readonly ILogger<SnacksController> _logger;
 		private readonly ApplicationDbContext _context;
 
-		public SetsController(ILogger<SetsController> logger, ApplicationDbContext context)
+		public SnacksController(ILogger<SnacksController> logger, ApplicationDbContext context)
 		{
 			_logger = logger;
 			_context = context;
