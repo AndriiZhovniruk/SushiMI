@@ -1,11 +1,12 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Sushimi.Models;
 
 namespace Sushimi.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
-        public DbSet<Dish> Dish { get; set; }
+        public DbSet<Dish> Dishes { get; set; }
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
@@ -52,12 +53,4 @@ namespace Sushimi.Data
         }
     }
 
-    public class Dish
-    {
-        public int Id { get; set; }
-        public string Category { get; set; }
-        public string Name { get; set; }
-        public int Weight { get; set; }
-        public int Price { get; set; }
-    }
 }

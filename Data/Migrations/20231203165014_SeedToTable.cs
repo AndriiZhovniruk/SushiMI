@@ -13,7 +13,7 @@ namespace Sushimi.Data.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Dish",
+                name: "Dishes",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -29,7 +29,7 @@ namespace Sushimi.Data.Migrations
                 });
 
             migrationBuilder.InsertData(
-                table: "Dish",
+                table: "Dishes",
                 columns: new[] { "Id", "Category", "Name", "Price", "Weight" },
                 values: new object[,]
                 {
@@ -67,7 +67,7 @@ namespace Sushimi.Data.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Dish");
+                name: "Dishes");
         }
     }
 }

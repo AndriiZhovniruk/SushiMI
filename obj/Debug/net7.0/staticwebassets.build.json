@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X5YAIfpV0l1H5b5+I3ytLF/rv4YfHz1oLunGNg4SXcc=",
+  "Hash": "KoQFxBcv4W8WmU3KIynn0zMxnZJ61EddoWYRgnfwM/I=",
   "Source": "Sushimi",
   "BasePath": "_content/Sushimi",
   "Mode": "Default",
@@ -1445,12 +1445,12 @@
       "OriginalItemSpec": "wwwroot\\Img\\snaks\\tartar.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\california.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\1.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sushi/california.png",
+      "RelativePath": "Img/sushi/1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,15 +1459,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sushi\\california.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sushi\\1.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\california_tun.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\2.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sushi/california_tun.png",
+      "RelativePath": "Img/sushi/2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1476,15 +1476,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sushi\\california_tun.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sushi\\2.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\enigma.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\3.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sushi/enigma.png",
+      "RelativePath": "Img/sushi/3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1493,15 +1493,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sushi\\enigma.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sushi\\3.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\felix_crab.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\4.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sushi/felix_crab.png",
+      "RelativePath": "Img/sushi/4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1510,15 +1510,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sushi\\felix_crab.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sushi\\4.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\fidelfia.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\5.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sushi/fidelfia.png",
+      "RelativePath": "Img/sushi/5.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1527,15 +1527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sushi\\fidelfia.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sushi\\5.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\itachi.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\6.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sushi/itachi.png",
+      "RelativePath": "Img/sushi/6.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1544,15 +1544,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sushi\\itachi.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sushi\\6.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\red_drag.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\7.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sushi/red_drag.png",
+      "RelativePath": "Img/sushi/7.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1561,15 +1561,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sushi\\red_drag.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sushi\\7.png"
     },
     {
-      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\sakura.png",
+      "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\sushi\\8.png",
       "SourceId": "Sushimi",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\",
       "BasePath": "_content/Sushimi",
-      "RelativePath": "Img/sushi/sakura.png",
+      "RelativePath": "Img/sushi/8.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1578,7 +1578,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Img\\sushi\\sakura.png"
+      "OriginalItemSpec": "wwwroot\\Img\\sushi\\8.png"
     },
     {
       "Identity": "D:\\Univer\\dotNET\\Sushimi\\Sushimi\\wwwroot\\Img\\tabs\\drink.png",
